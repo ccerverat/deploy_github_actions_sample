@@ -37,3 +37,7 @@ La app estará disponible en `http://localhost:3000`
     - Configurar la variable de perfil
 6. Subir un nuevo cambio al repositorio
 7. Opcionalmente: crear un test que falle y comprobar que no se realiza el despliegue.
+
+Enlace a la aplicación :
+
+http://aplicacioncarloscervera-env.eba-pk2jipyy.us-east-1.elasticbeanstalk.com/
